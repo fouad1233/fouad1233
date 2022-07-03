@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fouad1233
 - 👀 I’m interested in computer engineering ,programming,and electrical electronic engineering
 - 🌱 I’m an Electronic engineering Student at Gebze Tecknical University
-- 💞️ I’m looking to collaborate on programming web pages and games
+- 💞️ I’m looking to collaborate on programming for image process ,games and embedded systems programming.
 - 📫 How to reach me ? Just send me a gmail to fouadiadhami@gmail.com
 
 <!---
