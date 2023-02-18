@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fouad1233
-- 👀 I’m interested in programming,and electronic engineering
+- 👀 I’m interested in programming,and electronics
 - 🌱 I’m an Electronic engineering Student at Gebze Tecknical University
 - 💞️ I’m looking to collaborate on programming for image process, embedded systems and games.
 - 📫 How to reach me ? Just send me a gmail to fouadiadhami@gmail.com
