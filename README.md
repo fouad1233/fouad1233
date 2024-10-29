@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fouad1233
+- 👋 Hi, I’m Fouad Aladhami (@fouad1233)
 - 👀 I’m interested in programming, machine learning, and electronics
 - 🌱 I’m an Electronic engineering Student at Gebze Technical University
 - 📫 How to reach me? Just send me an email to fouadiadhami@gmail.com
