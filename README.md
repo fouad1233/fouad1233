@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fouad Aladhami (@fouad1233)
 - 👀 I’m interested in programming, machine learning, and electronics
-- 🌱 I’m an Electronic engineering Student at Gebze Technical University
+- 🌱 I’m an Electronics Engineer and a Computer Engineering Master's student at Gebze Technical University
 - 📫 How to reach me? Just send me an email to fouadiadhami@gmail.com
 
 ![fouad1233's Stats](https://github-readme-stats.vercel.app/api?username=fouad1233&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) <br/>
