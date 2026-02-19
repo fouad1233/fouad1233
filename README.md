@@ -81,17 +81,13 @@ currently_working_on: Bridging hardware and software with intelligent systems
   <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-
 ---
-
-
-
-
 
 ## 📬 Connect With Me
 
 <p align="center">
   <a href="mailto:fouadiadhami@gmail.com"><img src="https://img.shields.io/badge/Email-fouadiadhami%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/fouad-aladhami/"><img src="https://img.shields.io/badge/LinkedIn-Fouad%20Aladhami-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/fouad1233"><img src="https://img.shields.io/badge/GitHub-fouad1233-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
