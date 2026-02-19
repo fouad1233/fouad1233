@@ -3,9 +3,9 @@
 - 🌱 I’m an Electronics Engineer and a Computer Engineering Master's student at Gebze Technical University
 - 📫 How to reach me? Just send me an email to fouadiadhami@gmail.com
 
-![fouad1233's Stats](https://github-readme-stats.vercel.app/api?username=fouad1233&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) <br/>
+![fouad1233's Stats](https://github-readme-stats-7b16-fouad1233s-projects.vercel.app/api?username=fouad1233&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) <br/>
 ![fouad1233's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fouad1233&theme=vue-dark&hide_border=false) <br/>
-![fouad1233's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fouad1233&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) <br/>
+![fouad1233's Top Languages](https://github-readme-stats-7b16-fouad1233s-projects.vercel.app/api/top-langs/?username=fouad1233&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) <br/>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
