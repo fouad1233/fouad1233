@@ -6,6 +6,20 @@
 
 ---
 
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="46.2%" src="https://github-readme-stats-7b16-fouad1233s-projects.vercel.app/api?username=fouad1233&theme=github_dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fouad1233&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats-7b16-fouad1233s-projects.vercel.app/api/top-langs/?username=fouad1233&theme=github_dark&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+</p>
+
+---
 ## 🧑‍💻 About Me
 
 ```yaml
@@ -23,19 +37,6 @@ interests:
   - 📡 IoT & Smart Devices
 currently_working_on: Bridging hardware and software with intelligent systems
 ```
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="46.2%" src="https://github-readme-stats-7b16-fouad1233s-projects.vercel.app/api?username=fouad1233&theme=github_dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fouad1233&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats-7b16-fouad1233s-projects.vercel.app/api/top-langs/?username=fouad1233&theme=github_dark&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-</p>
-
 ---
 ## 🐍 Contribution Graph
 
